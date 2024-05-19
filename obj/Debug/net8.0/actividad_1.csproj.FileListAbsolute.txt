@@ -1,0 +1,14 @@
+D:\UMCA\2024\IIC\PROGRAMACION_V\actividad_1\bin\Debug\net8.0\actividad_1.exe
+D:\UMCA\2024\IIC\PROGRAMACION_V\actividad_1\bin\Debug\net8.0\actividad_1.deps.json
+D:\UMCA\2024\IIC\PROGRAMACION_V\actividad_1\bin\Debug\net8.0\actividad_1.runtimeconfig.json
+D:\UMCA\2024\IIC\PROGRAMACION_V\actividad_1\bin\Debug\net8.0\actividad_1.dll
+D:\UMCA\2024\IIC\PROGRAMACION_V\actividad_1\bin\Debug\net8.0\actividad_1.pdb
+D:\UMCA\2024\IIC\PROGRAMACION_V\actividad_1\obj\Debug\net8.0\actividad_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\UMCA\2024\IIC\PROGRAMACION_V\actividad_1\obj\Debug\net8.0\actividad_1.AssemblyInfoInputs.cache
+D:\UMCA\2024\IIC\PROGRAMACION_V\actividad_1\obj\Debug\net8.0\actividad_1.AssemblyInfo.cs
+D:\UMCA\2024\IIC\PROGRAMACION_V\actividad_1\obj\Debug\net8.0\actividad_1.csproj.CoreCompileInputs.cache
+D:\UMCA\2024\IIC\PROGRAMACION_V\actividad_1\obj\Debug\net8.0\actividad_1.dll
+D:\UMCA\2024\IIC\PROGRAMACION_V\actividad_1\obj\Debug\net8.0\refint\actividad_1.dll
+D:\UMCA\2024\IIC\PROGRAMACION_V\actividad_1\obj\Debug\net8.0\actividad_1.pdb
+D:\UMCA\2024\IIC\PROGRAMACION_V\actividad_1\obj\Debug\net8.0\actividad_1.genruntimeconfig.cache
+D:\UMCA\2024\IIC\PROGRAMACION_V\actividad_1\obj\Debug\net8.0\ref\actividad_1.dll
